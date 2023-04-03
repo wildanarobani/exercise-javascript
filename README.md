@@ -1,4 +1,4 @@
-# exercise-javascript
+# exercise-javascript-LOOPING
 
 ### Soal 1
 menggunakan perulangan FOR LOOP pada Javascript.
